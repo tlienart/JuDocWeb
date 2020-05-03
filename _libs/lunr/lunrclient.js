@@ -56,7 +56,9 @@ function escapeHtml(unsafe) {
 
 function showResultCount(total) {
     var element = document.getElementById(LUNR_CONFIG["countElementId"])
-    element.innerHTML = total + ".";
+    if (element !== null) {
+        element.innerHTML = total + ".";
+    }
 }
 
 
