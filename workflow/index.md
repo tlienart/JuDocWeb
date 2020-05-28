@@ -194,4 +194,4 @@ In any case, before deploying, if you're working on a _project website_ i.e. a w
 the `publish` function will then ensure that all links are fixed before deploying your website.
 
 Note also that the `publish` function accepts a `final=` keyword to which you can pass any function `() -> nothing` to do some final post-processing before pushing updates online.
-For instance, you can use `final=lunr` where `lunr` is a function exported by Franklin which generates a Lunr search index (see [this tutorial](/extras/lunr.html) for more details).
+For instance, you can use `final=lunr` where `lunr` is a function exported by Franklin which generates a Lunr search index (see [this tutorial](/extras/lunr/) for more details).
