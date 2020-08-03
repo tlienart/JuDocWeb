@@ -41,7 +41,7 @@ Initially Franklin was heavily reliant upon the Julia `Markdown` package (part o
 
 Franklin was initially named "_JuDoc_" which happened to be a [fairly obscure saint](https://en.wikipedia.org/wiki/Judoc) (I definitely did not know that before registering the package). 
 The name was meant to be close to *Jemdoc* from which the initial inspiration for this package comes and, of course, to hint at the fact that it was in Julia.
-After being kindly told that the name was awkward, I received great suggestions and we ended up renaming the package Franklin to honour
+After being kindly told that the name was awkward, I received great suggestions and we ended up renaming the package to Franklin to honour
 
 @@tlist
 - [Rosalind Franklin](https://en.wikipedia.org/wiki/Rosalind_Franklin), an English chemist who contributed to the discovery of the structure of DNA, and
