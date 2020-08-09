@@ -129,7 +129,7 @@ The `serve` function can be used to launch a server which will track and render 
 There are a few useful options you can use beyond the barebone `serve()`, do `?serve` in your REPL for all options, we list a few noteworthy one below:
 
 @@tlist
-* `clear=false`, whether to erases `__site` and starts from a blank slate,
+* `clear=false`, whether to erase `__site` and start from a blank slate,
 * `single=false`, whether to do a single build pass generating all pages and not start the server.
 * `prerender=false`, whether to prerender code blocks and maths (see the [optimisation step](#optimisation_step))
 * `verb=false`, whether to show information about which page is being processed etc,
